@@ -8,7 +8,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
 /**
- * Created by 180842 on 2024/06/11.
+ * Created by Dong Jun Kim on 2024/06/11.
  */
 class HomeLocalWorker(private val scope: CoroutineScope) {
     private val process = HomeProcess()

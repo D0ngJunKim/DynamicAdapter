@@ -6,7 +6,7 @@ import com.dynamicadapter.example.databinding.ItemHomeSpanBinding
 import com.dynamicadapter.lib.holder.GlobalBindingViewHolder
 
 /**
- * Created by 180842 on 2024/06/11.
+ * Created by Dong Jun Kim on 2024/06/11.
  */
 class SpanHolder(parent: ViewGroup, property: CommonProperty) :
         GlobalBindingViewHolder<ItemHomeSpanBinding, SpanUiData>(

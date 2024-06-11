@@ -10,7 +10,7 @@ import com.dynamicadapter.lib.helper.sticky.StickyLayout
 import com.dynamicadapter.lib.holder.GlobalBindingViewHolder
 
 /**
- * Created by 180842 on 2024/06/11.
+ * Created by Dong Jun Kim on 2024/06/11.
  */
 class FullHolder(parent: ViewGroup, property: CommonProperty) :
         GlobalBindingViewHolder<ItemHomeFullBinding, FullUiData>(

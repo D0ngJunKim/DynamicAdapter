@@ -8,7 +8,7 @@ import com.dynamicadapter.lib.dao.HolderInfo
 import kotlin.random.Random
 
 /**
- * Created by 180842 on 2024/06/11.
+ * Created by Dong Jun Kim on 2024/06/11.
  */
 class HomeProcess {
     fun process(): ArrayList<HolderInfo> {

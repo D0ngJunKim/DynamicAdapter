@@ -5,7 +5,7 @@ import kotlin.random.Random
 import kotlin.random.nextInt
 
 /**
- * Created by 180842 on 2024/06/11.
+ * Created by Dong Jun Kim on 2024/06/11.
  */
 
 private val IMG_LIST = arrayOf(R.drawable.ic_menu_camera, R.drawable.ic_menu_gallery, R.drawable.ic_menu_slideshow)
