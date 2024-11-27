@@ -313,9 +313,9 @@ class GlobalStickyHelper : RecyclerView.OnScrollListener() {
             detachStickyView(holder)
 
             _stickyHolder = null
-            stickyHolderList.remove(_stickyPosition)
             _stickyPosition = RecyclerView.NO_POSITION
         }
+        stickyHolderList.clear()
     }
 
     private fun swapStickyView(holder: RecyclerView.ViewHolder?, newPosition: Int) {
